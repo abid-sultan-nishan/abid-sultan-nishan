@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abid%20Sultan%20Nishan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Architect%20%E2%80%A2%20Neural%20Systems%20Engineer%20%E2%80%A2%20Dhaka%2C%20BD&descAlignY=58&descSize=15&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abid%20Sultan%20Nishan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=NLP%2C%20LLM%20and%20Deep%20Learning%20Researcher&descAlignY=58&descSize=15&descColor=a78bfa" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Fine-tuning+LLMs+%26+Diffusion+Models+%F0%9F%A7%A0;Building+Production-Grade+MLOps+Pipelines+%F0%9F%94%81;Edge+AI+%E2%80%A2+TinyML+%E2%80%A2+ONNX+Deployment+%E2%9A%A1;LLM+Security+%26+Adversarial+Robustness+%F0%9F%9B%A1%EF%B8%8F;Multimodal+AI+%E2%80%A2+Computer+Vision+%E2%80%A2+GenAI+%F0%9F%8E%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Researching+Language+Models+%26+Alignment+%F0%9F%A7%A0;Parameter-Efficient+Fine-Tuning+%E2%80%A2+LoRA+%E2%80%A2+QLoRA+%E2%9A%A1;Retrieval-Augmented+Generation+%26+Evaluation+%F0%9F%94%8D;LLM+Security+%26+Adversarial+Robustness+%F0%9F%9B%A1%EF%B8%8F;Efficient+NLP+for+the+Edge+%E2%80%A2+ONNX+%E2%80%A2+Quantization+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,14 +17,17 @@
 <a href="https://huggingface.co/YOURUSERNAME">
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
+<a href="https://scholar.google.com/citations?user=YOURID">
+  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</a>
+<a href="https://arxiv.org/a/YOURUSERNAME">
+  <img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white"/>
+</a>
 <a href="https://twitter.com/YOURUSERNAME">
   <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 <a href="https://medium.com/@YOURUSERNAME">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-<a href="https://github.com/YOURUSERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -40,42 +43,41 @@
 ```python
 #!/usr/bin/env python3
 # ─────────────────────────────────────────────────────────
-#  Neural Architect — Abid Sultan Nishan
+#  Researcher Profile — Abid Sultan Nishan
 # ─────────────────────────────────────────────────────────
 
-class NeuralArchitect:
+class Researcher:
     def __init__(self):
         self.name        = "Abid Sultan Nishan"
-        self.role        = "AI/ML Engineer & Neural Systems Architect"
+        self.role        = "NLP, LLM & Deep Learning Researcher"
         self.location    = "Dhaka, Bangladesh 🇧🇩"
         self.languages   = ["Python", "Rust", "C++", "SQL", "Bash"]
 
-        self.expertise   = {
-            "LLMs"        : ["Fine-tuning", "LoRA", "QLoRA", "RLHF", "DPO", "RAG"],
-            "Vision"      : ["Object Detection", "Segmentation", "YOLO", "ViT"],
-            "Generative"  : ["Stable Diffusion", "ControlNet", "DreamBooth", "SDXL"],
-            "Edge AI"     : ["ONNX", "TensorRT", "TinyML", "Quantization"],
-            "MLOps"       : ["Docker", "K8s", "MLflow", "WandB", "FastAPI"],
-            "Security"    : ["Adversarial ML", "Prompt Injection", "LLM Red-Teaming"],
+        self.research    = {
+            "NLP"          : ["Language Modeling", "Text Generation", "Evaluation", "Low-Resource NLP"],
+            "LLMs"         : ["LoRA", "QLoRA", "RLHF", "DPO", "RAG", "Alignment"],
+            "Deep Learning": ["Transformers", "Diffusion", "Flow Matching", "Distillation"],
+            "Efficiency"   : ["Quantization", "ONNX", "Pruning", "Edge AI"],
+            "Security"     : ["Prompt Injection", "Jailbreaks", "LLM Red-Teaming", "Adversarial ML"],
         }
 
         self.philosophy  = """
-            The best models aren't just accurate —
-            they're trustworthy, fast, and alive in production.
+            Good research is reproducible, honestly evaluated,
+            and useful beyond the paper it was written in.
         """
 
         self.open_to     = [
             "Research Collaboration",
             "Open Source Contributions",
-            "Freelance AI/ML Consulting",
+            "Paper Reviews & Co-authorship",
         ]
 
     def current_mission(self) -> str:
-        return "Engineer AI ecosystems that live, breathe, and scale under pressure."
+        return "Make language models more aligned, efficient, and trustworthy."
 
-me = NeuralArchitect()
+me = Researcher()
 print(me.current_mission())
-# → Engineer AI ecosystems that live, breathe, and scale under pressure.
+# → Make language models more aligned, efficient, and trustworthy.
 ```
 
 <br/>
@@ -84,33 +86,33 @@ print(me.current_mission())
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> What I Build
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> What I Research
 
 <table>
 <tr>
 <td valign="top" width="58%">
 
-### 🧠 Core Specializations
+### 🧠 Core Research Areas
+
+**Natural Language Processing**
+- Language modeling, text generation, and **benchmark evaluation**
+- Low-resource and multilingual NLP, including **Bangla**
+- Reproducible experimentation: ablations, baselines, error analysis
 
 **Large Language Models**
-- Fine-tune LLMs with **LoRA / QLoRA / RLHF / DPO** for domain-specific applications
-- Build **RAG pipelines** with sub-100ms retrieval using FAISS, ColBERT, Weaviate
-- Implement **LLM security middleware** — prompt injection, jailbreak detection
+- Parameter-efficient fine-tuning with **LoRA / QLoRA**
+- Preference optimization and alignment: **RLHF / DPO**
+- **RAG** systems: retrieval quality, re-ranking, grounding & faithfulness
 
-**Computer Vision**
-- Train custom **YOLO / DETR / ViT** models for detection, segmentation, tracking
-- Build real-time vision systems with **MediaPipe + Transformer** fusion
-- Deploy at 30+ FPS on resource-constrained hardware
+**Deep Learning**
+- Transformer architectures and training dynamics
+- Generative models: **Diffusion, Flow Matching, DiT**
+- Knowledge distillation, pruning, and **4-bit quantization**
 
-**Generative AI**
-- Fine-tune **Stable Diffusion** (ControlNet, DreamBooth, SDXL) on custom datasets
-- 4-bit quantized inference on consumer GPUs (6GB+)
-- End-to-end dataset curation & augmentation pipelines
-
-**MLOps & Edge AI**
-- Design CI/CD pipelines from experiment tracking to **live inference at scale**
-- Export & optimize models: **ONNX → TensorRT → Jetson / ARM / Mobile**
-- Monitor production ML with **Grafana dashboards + real-time alerting**
+**LLM Security & Safety**
+- **Prompt injection & jailbreak** detection and defense
+- Red-teaming methodology and adversarial robustness
+- Safe deployment of LLMs in sensitive domains
 
 </td>
 <td valign="top" width="42%" align="center">
@@ -123,12 +125,11 @@ print(me.current_mission())
   ┌─────────────────────────┐
   │   Current Focus Areas   │
   ├─────────────────────────┤
-  │  ◉ LLM Alignment       │
-  │  ◉ Multimodal Systems  │
-  │  ◉ Flow Matching (DiT) │
-  │  ◉ AI Safety & Red-    │
-  │    Teaming             │
-  │  ◉ On-Device Inference │
+  │  ◉ LLM Alignment        │
+  │  ◉ Efficient Fine-Tuning│
+  │  ◉ RAG Evaluation       │
+  │  ◉ Low-Resource NLP     │
+  │  ◉ LLM Red-Teaming      │
   └─────────────────────────┘
 ```
 
@@ -144,17 +145,16 @@ print(me.current_mission())
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> Tech Stack
 
-### 🤖 AI / ML Core
+### 🤖 Research Toolkit
 
-| Technology | Domain | Level |
+| Technology | Used For | Level |
 |---|---|---|
-| **PyTorch / JAX** | Deep Learning Research & Training | `██████████` 95% |
-| **HuggingFace Transformers** | LLM Orchestration & NLP | `█████████░` 92% |
-| **LangChain / LlamaIndex** | RAG Systems & AI Agents | `█████████░` 90% |
-| **OpenCV / YOLO / MMDet** | Computer Vision Pipelines | `████████░░` 88% |
-| **Stable Diffusion Stack** | Generative AI & Fine-tuning | `████████░░` 85% |
-| **ONNX / TensorRT** | Edge Optimization & Deployment | `███████░░░` 80% |
-| **Docker / Kubernetes** | MLOps & Production Infrastructure | `████████░░` 85% |
+| **PyTorch / JAX** | Model research & training | `██████████` 95% |
+| **HuggingFace Transformers / PEFT / TRL** | Fine-tuning & alignment | `█████████░` 92% |
+| **LangChain / LlamaIndex** | RAG & agent experiments | `█████████░` 90% |
+| **Stable Diffusion Stack** | Generative model research | `████████░░` 85% |
+| **ONNX / TensorRT** | Efficient inference & export | `███████░░░` 80% |
+| **WandB / MLflow** | Experiment tracking | `████████░░` 85% |
 
 ---
 
@@ -165,30 +165,27 @@ print(me.current_mission())
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-### 🧪 AI / ML Frameworks
+### 🧪 NLP / DL Frameworks
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-8B5CF6?style=for-the-badge&logo=google&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
-### ⚙️ MLOps & Infrastructure
+### ⚙️ Infrastructure & Tooling
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
@@ -197,66 +194,45 @@ print(me.current_mission())
 
 <br/>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"/> Featured Projects
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"/> Featured Research Projects
+
+<!-- Replace the descriptions, repo links, and any numbers with your real results. -->
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔬 Project Nova — Medical RAG Engine
-> Low-latency Retrieval-Augmented Generation pipeline for real-time clinical documentation workflows.
+> Retrieval-Augmented Generation research for grounded, low-latency clinical documentation.
 
 **Highlights:**
-- ⚡ Sub-100ms retrieval via **FAISS + ColBERT** re-ranking
-- 🧩 Domain-aware semantic chunking & tokenization
-- 🔐 HIPAA-compliant per-query context isolation
-- 📡 On-prem deployment — **FastAPI + Docker**
-- 📊 Query tracing with full explainability layer
+- 🔍 **FAISS + ColBERT** retrieval and re-ranking study
+- 🧩 Domain-aware semantic chunking strategies
+- 📏 Faithfulness & groundedness evaluation
+- 📡 Reproducible pipeline — **FastAPI + Docker**
+- 📊 Query tracing and explainability layer
 
 <br/>
 
-![RAG](https://img.shields.io/badge/RAG-Pipeline-7c3aed?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Research-7c3aed?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain)
 ![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square&logo=meta)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-![Medical AI](https://img.shields.io/badge/Medical_AI-red?style=flat-square)
+![Medical AI](https://img.shields.io/badge/Medical_NLP-red?style=flat-square)
+
+[📄 Paper](#) · [💻 Code](#)
 
 </td>
 <td width="50%" valign="top">
 
-### 👁️ Eye-ML — Gesture Intelligence for Edge
-> Real-time gesture recognition using lightweight Transformer blocks, optimized for resource-constrained devices.
+### 🛡️ Safe-Guard — LLM Attack Detection
+> Detection and defense research against prompt injection, jailbreaks, and data exfiltration.
 
 **Highlights:**
-- 🤏 Custom **MediaPipe + Transformer** fusion architecture
-- 📦 ONNX → TensorRT export for **Jetson Nano**
-- 🔁 **35 FPS** inference · **94.2% accuracy** on-device
-- 🧪 Trained on curated + heavily augmented dataset
-- 📱 ARM-compatible, runs without GPU
-
-<br/>
-
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
-![Edge AI](https://img.shields.io/badge/Edge_AI-orange?style=flat-square)
-![Jetson](https://img.shields.io/badge/Jetson_Nano-76B900?style=flat-square&logo=nvidia)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Safe-Guard — Enterprise LLM Armor
-> Adversarial attack detection and defense middleware for production LLM deployments.
-
-**Highlights:**
-- 🧬 Detects **prompt injection, jailbreaks & data exfiltration**
-- 🧠 Fine-tuned classifier on 10K+ red-team attack dataset
-- 🔌 Drop-in **FastAPI middleware** — zero latency overhead
-- 📊 Real-time threat monitoring dashboard via **Grafana**
-- 🔄 Auto-quarantine with audit trail logging
+- 🧬 Fine-tuned classifier on a curated red-team attack dataset
+- 🧪 Evaluation across attack families & robustness to paraphrase
+- 🔌 Drop-in **FastAPI middleware** for deployment
+- 📊 Threat monitoring dashboard via **Grafana**
+- 🔄 Audit-trail logging for reproducibility
 
 <br/>
 
@@ -265,30 +241,77 @@ print(me.current_mission())
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana)
 
+[📄 Paper](#) · [💻 Code](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 LoRA-Lab — Efficient LLM Fine-Tuning
+> Systematic comparison of LoRA / QLoRA configurations for domain adaptation under tight compute.
+
+**Highlights:**
+- ⚙️ Rank, alpha & target-module ablations
+- 🪶 **4-bit QLoRA** on consumer GPUs
+- 📈 Benchmarks vs. full fine-tuning baselines
+- 🧰 YAML-driven configs for one-command reproduction
+- 📊 Tracked end-to-end with **WandB**
+
+<br/>
+
+![LoRA](https://img.shields.io/badge/LoRA-pink?style=flat-square)
+![QLoRA](https://img.shields.io/badge/QLoRA-7c3aed?style=flat-square)
+![PEFT](https://img.shields.io/badge/PEFT-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+
+[📄 Paper](#) · [💻 Code](#)
+
 </td>
 <td width="50%" valign="top">
 
-### 🌀 DiffuEdge — Diffusion at the Boundary
-> Stable Diffusion fine-tuning toolkit for domain-specific image generation on constrained hardware.
+### 🌀 DiffuEdge — Diffusion on Constrained Hardware
+> Fine-tuning and inference research for diffusion models where GPU memory is limited.
 
 **Highlights:**
-- 🎨 Unified pipeline: **LoRA + DreamBooth + ControlNet**
-- 🪶 4-bit quantized inference on consumer **6GB+ GPUs**
-- 🧰 YAML-driven training config — zero boilerplate
+- 🎨 Unified **LoRA + DreamBooth + ControlNet** pipeline
+- 🪶 4-bit quantized inference on **6GB+ GPUs**
+- 🚀 Supports SDXL, SD 1.5, SD 2.1
+- 🧰 YAML-driven training configs
 - 📸 Automated dataset curation & augmentation
-- 🚀 Supports SDXL, SD 1.5, SD 2.1 architectures
 
 <br/>
 
 ![Diffusion](https://img.shields.io/badge/Stable_Diffusion-7c3aed?style=flat-square)
-![LoRA](https://img.shields.io/badge/LoRA-pink?style=flat-square)
 ![ControlNet](https://img.shields.io/badge/ControlNet-1C3C3C?style=flat-square)
 ![SDXL](https://img.shields.io/badge/SDXL-orange?style=flat-square)
 ![Quantization](https://img.shields.io/badge/4--bit_Quant-green?style=flat-square)
 
+[📄 Paper](#) · [💻 Code](#)
+
 </td>
 </tr>
 </table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/> Publications & Preprints
+
+<!-- Add your real papers here. Example format below. -->
+
+## 📚 Research Work & Writing
+
+| Year | Work | Type | Links |
+|---|---|---|---|
+| 2026 | *Safe-Guard: LLM Attack Detection* | Open-source project | [Code](https://github.com/YOURUSERNAME/REPO) |
+| 2026 | *LoRA-Lab: Efficient Fine-Tuning Experiments* | Technical report | [Report](https://github.com/YOURUSERNAME/REPO) |
+| 2025 | *Your model name* | HuggingFace model | [Model](https://huggingface.co/YOURUSERNAME/MODEL) |
+| 2025 | *Your article title* | Blog post | [Read](https://medium.com/@YOURUSERNAME/POST) |
 
 <br/>
 
@@ -304,11 +327,11 @@ print(me.current_mission())
 ╠══════════════════════════════════╦═══════════════════════════════╣
 ║  LLM Alignment & Safety          ║  RLHF · DPO · Constitutional AI
 ║  Efficient LLMs                  ║  LoRA · QLoRA · Speculative Dec.
-║  Multimodal AI Systems           ║  Vision-Language · CLIP · LLaVA
-║  Edge & Embedded AI              ║  TinyML · Distillation · Pruning
-║  Adversarial ML & Security       ║  Jailbreaks · Prompt Injection  
+║  Retrieval & Grounding           ║  RAG · Re-ranking · Faithfulness
+║  Low-Resource & Multilingual NLP ║  Bangla · Transfer · Evaluation
+║  Adversarial ML & Security       ║  Jailbreaks · Prompt Injection
 ║  Generative Model Research       ║  Flow Matching · DiT · Rectified
-║  MLOps & Observability           ║  Drift Detection · Monitoring   
+║  Model Compression               ║  Distillation · Pruning · ONNX
 ╚══════════════════════════════════╩═══════════════════════════════╝
 ```
 
@@ -350,7 +373,7 @@ print(me.current_mission())
 
 <div align="center">
 
-**📍 Dhaka, Bangladesh &nbsp;·&nbsp; 🌐 Open to Global Remote &nbsp;·&nbsp; ⚡ Fast Responder**
+**📍 Dhaka, Bangladesh &nbsp;·&nbsp; 🌐 Open to Global Remote &nbsp;·&nbsp; 🤝 Open to Research Collaboration**
 
 <br/>
 
@@ -362,8 +385,8 @@ print(me.current_mission())
 
 <br/>
 
-> *"The next generation of AI won't be built in notebooks.*
-> *It'll be engineered in systems — robust, scalable, and alive."*
+> *"Language is how we think out loud.*
+> *Teaching machines to use it well is a responsibility, not just a benchmark."*
 
 <br/>
 
